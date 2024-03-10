@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antecedentes</title>
+</head>
+<body bgcolor="#b4ccb9">
+
+    <font size="6" face="Verdana, Geneva, Tahoma, sans-serif"><h1><center>Antecedentes</center></h1></font>
+
+    <nav>
+        <font size="4" face="Verdana, Geneva, Tahoma, sans-serif">
+            <center>
+              <table>
+            
+                <tr>
+                    <td border="width=10px"><a href="index.html"><center><img src="Recursos/imagenes/nav/inicio.webp" height="60px" alt="logo de inicio"></center></a></td>
+                    <td border="width=10px"><a href="hm.html"><center><img src="Recursos/imagenes/nav/historia.png" alt="libro" height="70px"></center></a></td>
+                    <td border="width=10px"><a href="dm.html"><center><img src="Recursos/imagenes/nav/fotos.jpg" alt="fotos mundiales" height="100px"></center></a></td>
+                    <td border="width=10px"><a href="documentales.html"><center><img src="Recursos/imagenes/nav/docs.png" alt="documentales" height="80px"></center></a></td>
+                    <td border="width=10px"><a href="referencias.html"><center><img src="Recursos/imagenes/nav/ref.jpg" alt="referencias" height="100px"></center></a></td>
+                </tr>
+                <tr border=" 60px solid #000">
+                    <td border="width=10px"><a href="index.html"><center>Inicio</center></a></td>
+                    <td border="width=10px"><a href="hm.html"><center>Historia en <br>México</center></a></td>
+                    <td border="width=10px"><a href="dm.html"><center>Día de la <br> mujer</center></a></td>
+                    <td border="width=10px"><a href="documentales.html"><center>Documentales</center></a></td>
+                    <td border="width=10px"><a href="referencias.html"><center>Referecias</center></a></td>
+                </tr>
+              </table>
+              <hr>    
+            </center>
+        </font>        
+    </nav>
+
+    <sectiion>
+        <font size="3" face="Verdana, Geneva, Tahoma, sans-serif">
+        <center>
+            <br> <br> <br> <br> <br>
+            <h3><font size="5">¿Sabias qué?</font></h3>
+            <h4><br>El hecho de que se conmemore el 8 de marzo está estrechamente vinculado a los movimientos feministas durante la Revolución Rusa de 1917, 
+                <br>y Nueva Zelanda fue el primer país que permite votar a las mujeres en 1893.</h4>
+        </center>
+        </font>
+    </sectiion>
+
+</body>
+
+</html>

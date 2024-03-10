@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentales</title>
+    
+    <meta name="description" content="Pagina de informacion sobre el dia de la mujer">
+    
+    <!-- OPEN GRAPH -->
+    <meta property="og:title" content="Pagina del dia de la mujer">
+    <meta property="og:description" content="En esta página se muestra información sobre el día de la mujer, así como documentales e imagenes sobre lo que ha sucedido en este dia">
+    <meta property="og:image" content="/Recursos/imagenes/mov8.png">
+    <meta property="og:image:alt" content="Logo del dia de la mujer">
+    
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#000000">      
+    <link rel="icon" type="image/jpg" href="/Recursos/imagenes/mov8.png">
+
+</head>
+<body bgcolor="#b4ccb9">
+    
+    <font size="6" face="Verdana"><h1><center>Documentales</center></h1></font>
+
+    <nav>
+        <font size="4" face="Verdana, Geneva, Tahoma, sans-serif">
+            <center>
+              <table>
+            
+                <tr>
+                    <td border="width=10px"><a href="index.html"><center><img src="Recursos/imagenes/nav/inicio.webp" height="60px" alt="logo de inicio"></center></a></td>
+                    <td border="width=10px"><a href="Antecedentes.html"><center><img src="Recursos/imagenes/nav/ant.png" height="50px" alt="logoa de Antecedentes"></center></a></td>
+                    <td border="width=10px"><a href="hm.html"><center><img src="Recursos/imagenes/nav/historia.png" alt="libro" height="70px"></center></a></td>
+                    <td border="width=10px"><a href="dm.html"><center><img src="Recursos/imagenes/nav/fotos.jpg" alt="fotos mundiales" height="100px"></center></a></td>
+                    <td border="width=10px"><a href="referencias.html"><center><img src="Recursos/imagenes/nav/ref.jpg" alt="referencias" height="100px"></center></a></td>
+                </tr>
+                <tr border=" 60px solid #000">
+                    <td border="width=10px"><a href="index.html"><center>Inicio</center></a></td>
+                    <td width="100px"><a href="Antecedentes.html"><center>Antecedentes</center></a></td>
+                    <td border="width=10px"><a href="hm.html"><center>Historia en <br>México</center></a></td>
+                    <td border="width=10px"><a href="dm.html"><center>Dia de la <br> mujer</center></a></td>
+                    <td border="width=10px"><a href="referencias.html"><center>Referecias</center></a></td>
+                </tr>
+              </table>
+              <hr>    
+            </center>
+        </font>        
+    </nav>
+
+<main>
+    <center>
+        <br> <br>
+        <font face="Verdana">
+        <video style="width:100%; aspect-ratio:16/9;" src="Recursos/videos/vd1.mp4"
+        title="video player" frameborder="0"
+        allow="accelerometer; autoplay=false; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen type="video/mp4" autostart="1"></video>
+            
+        <footer>Video número uno del día de la mujer</footer>
+
+        <video style="width:100%; aspect-ratio:16/9;" src="Recursos/videos/dm.mp4"
+        title="video player"  frameborder="0" autostart="1"
+        allow="accelerometer; autoplay false; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen type="video/mp4"></video>
+        
+        <footer>Video documental número dos</footer>
+        </font>
+    </center>
+</main>
+</body>
+</html>

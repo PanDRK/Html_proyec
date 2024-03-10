@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia de la mujer</title>
+
+    <meta name="description" content="Pagina de informacion sobre el dia de la mujer">
+    
+    <!-- OPEN GRAPH -->
+    <meta property="og:title" content="Pagina del dia de la mujer">
+    <meta property="og:description" content="En esta página se muestra información sobre el día de la mujer, así como documentales e imagenes sobre lo que ha sucedido en este dia">
+    <meta property="og:image" content="/Recursos/imagenes/mov8.png">
+    <meta property="og:image:alt" content="Logo del dia de la mujer">
+    
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#000000">      
+    <link rel="icon" type="image/jpg" href="/Recursos/imagenes/mov8.png">
+
+</head>
+<body bgcolor="#b4ccb9">
+
+    <font size="6" face="Verdana, Geneva, Tahoma, sans-serif"><h1><center>Historia del dia</center></h1></font>
+   
+    <nav>
+        <font size="4" face="Verdana, Geneva, Tahoma, sans-serif">
+            <center>
+              <table>
+            
+                <tr>
+                    <td border="width=10px"><a href="index.html"><center><img src="Recursos/imagenes/nav/inicio.webp" height="60px" alt="logo de inicio"></center></a></td>
+                    <td border="width=10px"><a href="Antecedentes.html"><center><img src="Recursos/imagenes/nav/ant.png" height="50px" alt="logoa de Antecedentes"></center></a></td>
+                    <td border="width=10px"><a href="dm.html"><center><img src="Recursos/imagenes/nav/fotos.jpg" alt="fotos mundiales" height="100px"></center></a></td>
+                    <td border="width=10px"><a href="documentales.html"><center><img src="Recursos/imagenes/nav/docs.png" alt="documentales" height="80px"></center></a></td>
+                    <td border="width=10px"><a href="referencias.html"><center><img src="Recursos/imagenes/nav/ref.jpg" alt="referencias" height="100px"></center></a></td>
+                </tr>
+                <tr border=" 60px solid #000">
+                    <td border="width=10px"><a href="index.html"><center>Inicio</center></a></td>
+                    <td width="100px"><a href="Antecedentes.html"><center>Antecedentes</center></a></td>
+                    <td border="width=10px"><a href="dm.html"><center>Día de la <br> mujer</center></a></td>
+                    <td border="width=10px"><a href="documentales.html"><center>Documentales</center></a></td>
+                    <td border="width=10px"><a href="referencias.html"><center>Referecias</center></a></td>
+                </tr>
+              </table>
+              <hr>    
+            </center>
+        </font>        
+    </nav>
+
+    <font size="4" face="Verdana, Geneva, Tahoma, sans-serif">
+    
+    <main>
+        <sectiion>
+            <center>
+                <br> <br>
+                <h4>Durante siglos las mujeres de cada época y de diversos paises han <br>
+                    luchado por sus derechos; igualdad laborial, salarial, derecho a votar <br>
+                    en mejores condiciones de vida que les permita participar en la sociedad <br>
+                    en pie de igualdad con el hombre, por ello, cada 8 de marzo se conmemora <br>
+                    esta la lucha de ellas.</h4 ><br>
+            </center>
+        </sectiion>
+    
+        <article>
+           <h3>Algunos de los eventos que han sucedido son:</h3>
+           
+            <center>
+                <div>
+                    <li>Declaración de los Derechos de la Mujer y la Ciudadana.</li>
+                    <li>Primera celebración del día de la mujer <br>
+                     se dió <strong>el 28 de febrero de 1909</strong></li>
+                    <li>En 1975 la ONU reconoció el día de manera oficial.</li>
+                    <li><strong>En 1910 se propuso el 8 de marzo</strong> como 
+                        el día<br>Internacional de las mujeres</li>
+                </div>
+            </center>
+        </article>
+    </main>
+
+    <br><br><br><br><br>
+
+    </font>
+</body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"> <!-- codificacion -->
+    <meta name="viewport" content="width=device-width">
+    <title>Pagina del día de la mujer</title>
+    
+    <meta name="description" content="Pagina de informacion sobre el día de la mujer">
+    
+    <!-- OPEN GRAPH -->
+    <meta property="og:title" content="Pagina del día de la mujer">
+    <meta property="og:description" content="En esta página se muestra información sobre el día de la mujer, así como documentales e imagenes sobre lo que ha sucedido en este día">
+    <meta property="og:image" content="/Recursos/imagenes/mov8.png">
+    <meta property="og:image:alt" content="Logo del día de la mujer">
+    
+    <meta name="robots" content="index, fullow">
+    <meta name="theme-culor" content="#000000">      
+    <link rel="icon" type="image/jpg" href="/Recursos/imagenes/mov8.png">
+
+</head>
+<body bgcolor="A3CAAB">
+
+    <font size="6" face="Tahoma, sans-serif"><h1><center>Historia del <br>8 de marzo</center></h1></font>
+
+    <nav>
+        <font size="4" face="Verdana, Geneva, Tahoma, sans-serif">
+            <center>
+              <table>
+            
+                <tr>
+                    <td border="width=10px"><a href="Antecedentes.html"><center><img src="Recursos/imagenes/nav/ant.png" height="50px" alt="logoa de Antecedentes"></center></a></td>
+                    <td border="width=10px"><a href="hm.html"><center><img src="Recursos/imagenes/nav/historia.png" alt="libro" height="70px"></center></a></td>
+                    <td border="width=10px"><a href="dm.html"><center><img src="Recursos/imagenes/nav/fotos.jpg" alt="fotos mundiales" height="100px"></center></a></td>
+                    <td border="width=10px"><a href="documentales.html"><center><img src="Recursos/imagenes/nav/docs.png" alt="documentales" height="80px"></center></a></td>
+                    <td border="width=10px"><a href="referencias.html"><center><img src="Recursos/imagenes/nav/ref.jpg" alt="referencias" height="100px"></center></a></td>
+                </tr>
+                <tr border=" 60px solid #000">
+                    <td width="100px"><a href="Antecedentes.html"><center>Antecedentes</center></a></td>
+                    <td border="width=10px"><a href="hm.html"><center>Historia en <br>México</center></a></td>
+                    <td border="width=10px"><a href="dm.html"><center>Dia de la <br> mujer</center></a></td>
+                    <td border="width=10px"><a href="documentales.html"><center>Documentales</center></a></td>
+                    <td border="width=10px"><a href="referencias.html"><center>Referecias</center></a></td>
+                </tr>
+              </table>
+              <hr>    
+            </center>
+        </font>        
+    </nav>
+
+    <sectiion>
+        <br><br>
+        <font color = "#198B56" size="5" face="Verdana, Geneva, Tahoma, sans-serif"> 
+        <center>
+            <table>
+            <tr>
+                <td>
+                    <h3>Ariel López Miranda</h3>
+                    <ul>
+                        <li><p>Creador de la página de referencias</p></li>
+                        <li><p>Investigador y documentador del sitio web</p></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Ian David Blas Amador</h3>
+                    <ul>
+                        <li><p>Creador de la página día de la mujer</p></li>
+                        <li><p>Creador página de Historia en México</p></li>
+                        <li><p>Diseño e imagen</p> </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Daniela Ramírez Mercado</h3>
+                    <ul>
+                        <li><p>Creadora de la pagina documentales</p></li>
+                        <li><p>Revición de ortografía</p></li>
+                    </ul>
+                </td>
+            </tr>
+                
+            <br>
+            <tr>
+                <td>
+                        <h3>Carlos Eduardo Bueno Martínez</h3>
+                    <ul>
+                        <li><p>Creador de página de Antecedentes</p></li>
+                        <li><p>Diseño de navegación</p></li>
+                    </ul>
+                </td>
+            </tr>
+                
+        </table>
+        </center>
+    </font>
+    </sectiion>
+
+    <br><b><br><br><b><br><br><br><br></b></b>
+
+</body>
+</html>
