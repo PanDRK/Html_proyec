@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form>
+      <label for="gender">Género:</label>
+      <input type="radio" name="gender" value="Masculino" />Masculino
+      <input
+        type="radio"
+        name="gender"
+        value="Female"
+        checked="checked"
+      />Femenino
+      <button
+        type="button"
+        onclick="document.write(document.querySelector('input[name=gender]:checked').value)"
+      >
+        Haz clic para verificar
+      </button>
+    </form>
+  </body>
+</html>
